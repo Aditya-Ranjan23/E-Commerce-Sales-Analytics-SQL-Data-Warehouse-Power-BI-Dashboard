@@ -21,7 +21,7 @@
 
 ## Customer Analytics Dashboard
 
-![Customer Analytics](powerbi/customer%20analytics.png
+![Customer Analytics](powerbi/customer%20analytics.png)
 
 ### Customer Insights
 
