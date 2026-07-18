@@ -4,7 +4,7 @@
 
 ## Executive Dashboard
 
-![Executive Dashboard](images/executive_dashboard.png)
+![Executive Dashboard](powerbi/executive%20dashboard.png)
 
 ### Executive Insights
 
@@ -21,7 +21,7 @@
 
 ## Customer Analytics Dashboard
 
-![Customer Analytics](images/customer_analytics.png)
+![Customer Analytics](powerbi/customer%20analytics.png
 
 ### Customer Insights
 
